@@ -35,6 +35,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "unit_mina", "unit_mina", "{
 		MinaTheHollower\unit_mina\unit.gml = MinaTheHollower\unit_mina\unit.gml
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArchipelagoPD", "ArchipelagoPD", "{8D6D77F6-BD4F-4E3A-8951-05CA9B00559F}"
+	ProjectSection(SolutionItems) = preProject
+		ArchipelagoPD\controller_game_start.gml = ArchipelagoPD\controller_game_start.gml
+		ArchipelagoPD\mod_info.ini = ArchipelagoPD\mod_info.ini
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
