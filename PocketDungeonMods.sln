@@ -5,7 +5,10 @@ VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{15B6E5E0-7FDE-40EB-92C7-E030ABBD1312}"
 	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
 		ModNotes.txt = ModNotes.txt
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TurnBasedBattles", "TurnBasedBattles", "{39CF73C4-2E27-427F-9A45-0AC268E943A2}"
